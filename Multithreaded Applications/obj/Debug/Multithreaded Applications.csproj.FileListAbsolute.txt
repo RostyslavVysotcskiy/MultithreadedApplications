@@ -1,0 +1,12 @@
+C:\Projects\Multithreaded Applications\Multithreaded Applications\bin\Debug\Multithreaded Applications.exe
+C:\Projects\Multithreaded Applications\Multithreaded Applications\bin\Debug\Multithreaded Applications.pdb
+C:\Projects\Multithreaded Applications\Multithreaded Applications\obj\Debug\Multithreaded_Applications.Properties.Resources.resources
+C:\Projects\Multithreaded Applications\Multithreaded Applications\obj\Debug\Multithreaded Applications.csproj.GenerateResource.Cache
+C:\Projects\Multithreaded Applications\Multithreaded Applications\obj\Debug\Multithreaded Applications.exe
+C:\Projects\Multithreaded Applications\Multithreaded Applications\obj\Debug\Multithreaded Applications.pdb
+C:\Projects\Multithreaded Applications\Multithreaded Applications\bin\Debug\en\Multithreaded Applications.resources.dll
+C:\Projects\Multithreaded Applications\Multithreaded Applications\obj\Debug\en\Multithreaded Applications.resources.dll
+C:\Projects\Multithreaded Applications\Multithreaded Applications\bin\Debug\Multithreaded Applications.exe.config
+C:\Projects\Multithreaded Applications\Multithreaded Applications\obj\Debug\Multithreaded Applications.csprojResolveAssemblyReference.cache
+C:\Projects\Multithreaded Applications\Multithreaded Applications\obj\Debug\Multithreaded_Applications.MainForm.resources
+C:\Projects\Multithreaded Applications\Multithreaded Applications\obj\Debug\Multithreaded_Applications.MainForm.en.resources
