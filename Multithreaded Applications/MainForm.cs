@@ -23,7 +23,7 @@ namespace Multithreaded_Applications
 
         public MainForm()
         {
-            InitializeComponent();         
+            InitializeComponent();
         }
 
         private void select_folder_Click(object sender, EventArgs e)
