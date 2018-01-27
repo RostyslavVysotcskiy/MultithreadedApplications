@@ -10,3 +10,6 @@ C:\Projects\Multithreaded Applications\Multithreaded Applications\bin\Debug\Mult
 C:\Projects\Multithreaded Applications\Multithreaded Applications\obj\Debug\Multithreaded Applications.csprojResolveAssemblyReference.cache
 C:\Projects\Multithreaded Applications\Multithreaded Applications\obj\Debug\Multithreaded_Applications.MainForm.resources
 C:\Projects\Multithreaded Applications\Multithreaded Applications\obj\Debug\Multithreaded_Applications.MainForm.en.resources
+C:\Users\Rostyslav\Desktop\Multithreaded Applications\Multithreaded Applications\bin\Debug\Multithreaded Applications.exe.config
+C:\Users\Rostyslav\Desktop\Multithreaded Applications\Multithreaded Applications\obj\Debug\Multithreaded Applications.exe
+C:\Users\Rostyslav\Desktop\Multithreaded Applications\Multithreaded Applications\obj\Debug\Multithreaded Applications.pdb
